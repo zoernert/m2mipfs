@@ -1,0 +1,22 @@
+{
+  "name": "m2m-ipfs",
+  "version": "0.0.1",
+  "description": "Simple Wrapper to JS-IPFS-API to allow store and retrieve of a dataset",
+  "main": "m2mipfs.js",
+  "dependencies": {
+    "ipfs-api": "^6.0.1",
+    "m2mpkx": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m2m","ipfs"
+  ],
+  "author": "Thorsten Zoerner <me@thorsten-zoerner.com> (https://blog.stromhaltig.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoernert/m2mpkx/issues"
+  }
+}
